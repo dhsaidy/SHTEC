@@ -1,7 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "New Version Available - V1.1",
+  "Description": "Today Class,
+Note,
+CT Question,
+Book link",
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
