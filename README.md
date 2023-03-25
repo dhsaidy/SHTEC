@@ -1,2 +1,3 @@
 # SHTEC
-Textile College App
+Sheikh Hasina Textile Engineering College App
+Malandaha Jamalpur
